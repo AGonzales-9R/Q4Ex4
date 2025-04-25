@@ -1,0 +1,42 @@
+* {
+
+}
+
+body {
+	text-align: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: lightpink;
+}
+
+label {
+	font-size: 25px;
+}
+
+input {
+	text-align: center;
+}
+
+p {
+	font-size: 30px;
+}
+
+a {
+	color: black;
+}
+
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	padding: 5px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.container {
+	background-color: white;
+	border-style: solid;
+}
